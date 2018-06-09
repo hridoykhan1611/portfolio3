@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+img { 
+    width:100%; 
+}
+</style>
+</head>
+<body>
+
+<img src="pic.jpeg" alt="HTML5 Icon" width="640" height="360">
+<img src="pic2.jpeg" alt="HTML5 Icon" style="width:1920px;height:1080px;">
+
+</body>
+</html>
